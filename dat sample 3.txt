@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"how to use this app 1","desc":"Standoff 2 is a popular first-person shooter game developed by Axlebolt, and it has garnered a massive following since its release in 2018.","photo":"https://iili.io/HSnJg24.jpg"},
+  {"title":"helper mod 2","desc":"The game is available on both Android and iOS platforms, and it has been widely praised for its fast-paced gameplay, engaging storyline, ","photo":"https://iili.io/HSnJS4f.jpg"},
+  {"title":"tips pack 3","desc":"and impressive graphics. With regular updates and new features, the game has managed to maintain its relevance in the competitive gaming market.","photo":"https://iili.io/HSnJrYl.jpg"},
+  {"title":"helper mod 4","desc":"One of the most significant updates to the game was the release of version 0.22.3, which brought a host of new features and improvements to the game. In this article,","photo":"https://iili.io/HSnJ4v2.jpg"},
+  {"title":"advance pack 5","desc":"we will take a closer look at Standoff 2 version 0.22.3, and what it brings to the table.","photo":"https://iili.io/HSnJ6pS.jpg"},
+  {"title":"advice mod 6","desc":"Standoff 2's gameplay revolves around two teams, the terrorists and the special forces, fighting against each other in various game modes.","photo":"https://iili.io/HSnJsj9.jpg"},
+  {"title":"tips pack 7","desc":". The game features several different maps, each with its unique layout and design. The primary game modes in Standoff 2 are Defuse the Bomb, Deathmatch, Capture the Flag, and Arms Race.","photo":https://iili.io/HSnJLQe.jpg"},
+  {"title":"helper mod 8","desc":"In Defuse the Bomb, the terrorists are tasked with planting a bomb in one of two bomb sites, while the special forces team tries to prevent them from doing so.","photo":"https://iili.io/HSnJiT7.jpg"}
    ]
  
 }
